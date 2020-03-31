@@ -22,9 +22,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* Changed the text color to make it pop up */
+/* ----------------------------------------------------- */
 header h1 .seo {
-    color: #898d86;
+    color: #2b2c2a;
 }
+/* ----------------------------------------------------- */
 
 nav {
     padding-top: 15px;
