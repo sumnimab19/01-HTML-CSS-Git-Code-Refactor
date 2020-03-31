@@ -50,6 +50,13 @@ a {
     text-decoration: none;
 }
 
+/* Added hover property to the a element of navigator to get the text underlined */
+/* ------------------------------------------------------------------------*/
+a:hover{
+    text-decoration: underline;
+}
+/* ------------------------------------------------------------------------*/
+
 p {
     font-size: 16px;
 }
