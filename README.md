@@ -23,9 +23,7 @@ User can click on the navigator links at the top right hand corner of the page t
     <!-- Added meta tags for accessibility and searchablility -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="search engine optimization, online reputation management, social media marketing">
-   
     <link rel="stylesheet" href="./assets/css/style.css">
-   
     <!-- Title changed to company's name -->
     <title>Horiseon Social Solution Services</title>
 </head>
