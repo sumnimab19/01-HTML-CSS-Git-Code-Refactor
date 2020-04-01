@@ -2,7 +2,7 @@
 
 # Horiseon
 
-Horiseon provides services such as Search Engine Optimization, Online Reputation Management, Social Media Marketing.
+Horiseon is a marketing agency that provides services such as Search Engine Optimization, Online Reputation Management, Social Media Marketing.
 
 ## Description
 
