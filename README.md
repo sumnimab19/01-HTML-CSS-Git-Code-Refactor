@@ -13,40 +13,6 @@ User can click on the navigator links at the top right hand corner of the page t
 2. CSS
 
 
-## Code / Screenshot
+## Screenshot
 
-<!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-    <meta charset="UTF-8" >
-    <!-- Added meta tags for accessibility and searchablility -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="search engine optimization, online reputation management, social media marketing">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <!-- Title changed to company's name -->
-    <title>Horiseon Social Solution Services</title>
-</head>
-
-<body>
-    <!-- Header and Navigator -->
-    <!-- Replaced <div> with <header> and <nav> tags -->
-    <header>
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
-            </ul>
-        </nav>
-    </header>
-    
-   
-</html>
+<img width="1411" alt="Screen Shot 2020-04-01 at 2 31 08 PM" src="https://user-images.githubusercontent.com/55207625/78190074-24045900-7428-11ea-8bd9-27dc20c62667.png">
