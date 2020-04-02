@@ -9,7 +9,7 @@ Horiseon is a marketing agency that provides services such as Search Engine Opti
 User can click on the navigator links at the top right hand corner of the page to get to the detail or can scroll down to see the detail.  
 
 ## Technology Used
-1. Semantic HTML
+1. HTML 5
 2. CSS
 
 
